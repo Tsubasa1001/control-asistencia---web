@@ -1,0 +1,19 @@
+body{
+	text-align: center;
+	background-color: #FFF;
+	color: black;
+	vertical-align: center;
+	font-family: 'Baloo Tammudu', cursive;
+}
+
+.init{
+	text-align: center;
+	margin-top: 20%;
+}
+
+h4{
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
+
+
